@@ -8,4 +8,4 @@ All the changes will be notified in real time such as a new friend request,chang
 ### URLs:
 * Hosted URL: http://to-doapp.tech2praveen.info
 * Backend URL: http://api.to-doapp.tech2praveen.info
-* Apidocs:	http://apidoc.to-doapp.tech2praveen.info
+* Apidocs:	http://api.to-doapp.tech2praveen.info/apidoc
